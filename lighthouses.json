@@ -1,0 +1,22 @@
+[
+  { "naam": "Vuurtoren Texel", "lat": 53.1806, "lng": 4.8541 },
+  { "naam": "Vuurtoren Vlieland", "lat": 53.3001, "lng": 5.0729 },
+  { "naam": "Vuurtoren Terschelling", "lat": 53.3668, "lng": 5.2125 },
+  { "naam": "Vuurtoren Ameland", "lat": 53.4523, "lng": 5.6269 },
+  { "naam": "Vuurtoren Schiermonnikoog", "lat": 53.4894, "lng": 6.1583 },
+  { "naam": "Vuurtoren Den Helder", "lat": 52.9611, "lng": 4.7461 },
+  { "naam": "Vuurtoren IJmuiden", "lat": 52.4641, "lng": 4.5741 },
+  { "naam": "Vuurtoren Egmond", "lat": 52.6189, "lng": 4.6180 },
+  { "naam": "Vuurtoren Noordwijk", "lat": 52.2390, "lng": 4.4332 },
+  { "naam": "Vuurtoren Scheveningen", "lat": 52.1036, "lng": 4.2683 },
+  { "naam": "Vuurtoren Hoek van Holland", "lat": 51.9775, "lng": 4.1191 },
+  { "naam": "Vuurtoren Hellevoetsluis", "lat": 51.8291, "lng": 4.1343 },
+  { "naam": "Vuurtoren Ouddorp", "lat": 51.8144, "lng": 3.9441 },
+  { "naam": "Vuurtoren Westkapelle", "lat": 51.5261, "lng": 3.4386 },
+  { "naam": "Vuurtoren Breskens", "lat": 51.3932, "lng": 3.5594 },
+  { "naam": "Vuurtoren Vlissingen", "lat": 51.4444, "lng": 3.5697 },
+  { "naam": "Vuurtoren Harlingen", "lat": 53.1739, "lng": 5.4205 },
+  { "naam": "Vuurtoren Urk", "lat": 52.6647, "lng": 5.5851 },
+  { "naam": "Vuurtoren Marken", "lat": 52.4574, "lng": 5.1119 },
+  { "naam": "Vuurtoren Den Oever", "lat": 52.9351, "lng": 5.0330 }
+]
